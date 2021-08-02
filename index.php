@@ -77,6 +77,7 @@ if (isset($_POST['submit'])) {
     echo "<div class='card mt-3'>";
     echo "<div class='card-header'>Hasil</div>";
     echo "<div class='card-body'>";
+    
     echo "<fieldset class='form-group border p-3'>";
     echo "<legend class='w-auto px-2'>Siswa 1</legend>";
     echo "Nama Murid : " . $nama1;
